@@ -1,6 +1,6 @@
-# Statistical assessment
+# R assessment
 
-We will be sending you a basic skills test that will test your skills in R, the surveillance of infectious diseases, and statistical consulting. As a part of this test, you will need to sign up for a free GitHub account (https://github.com/join).
+We will be sending you a basic skills test that will test your skills in R. As a part of this test, you will need to sign up for a free GitHub account (https://github.com/join).
 
 If you have any questions, send an email to Beatriz.ValcarcelSalamanca@fhi.no
 
