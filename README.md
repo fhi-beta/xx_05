@@ -2,7 +2,7 @@
 
 We will be sending you a basic skills test that will test your skills in R. As a part of this test, you will need to sign up for a free GitHub account (https://github.com/join).
 
-If you have any questions, send an email to Beatriz.ValcarcelSalamanca@fhi.no
+If you have any questions, send an sms to Beatriz (see number in the email)
 
 **ALL TASKS MAY BE COMPLETED IN EITHER NORWEGIAN/DANISH/SWEDISH OR ENGLISH**
 
