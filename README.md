@@ -62,7 +62,9 @@ You are required to put your code in the following locations:
 Do the following for each of the 356 municipalities (municip*):
 
 9. Split the data into training data (`2010-01` to `2019-52`) and production data (`2020-01` to `2020-53`)
-10. Use the training data to estimate: a) the average number of cases per week (e.g. "from 2010 to 2019 we saw an average of 4 cases in week 1, 5 cases in week 2, 6 cases in week 3, ...), b) the standard deviation of number of cases per week (e.g. "from 2010 to 2019 we saw that the number of cases in week 1 had a standard deviation of 3, the number of cases in week 2 has a standard deviation of 5, ...).
+10. Use the training data to estimate: 
+  a) the average number of cases per week (e.g. "from 2010 to 2019 we saw an average of 4 cases in week 1, 5 cases in week 2, 6 cases in week 3, ...), 
+  b) the standard deviation of number of cases per week (e.g. "from 2010 to 2019 we saw that the number of cases in week 1 had a standard deviation of 3, the number of cases in week 2 has a standard deviation of 5, ...).
 11. Use your results from #10 to create an "alert" threshold for weeks 1-52 (i.e. "How many people need to get sick for you to think it is an outbreak in week 1, week 2, week 3, week 4, ...?"). You can do this via the formula: average + 2*standard deviation.
 12. Identify the potential outbreaks in the training data (i.e. number of sick people > thresholds created in #11)
 13. Exclude the potential outbreaks from the training data
