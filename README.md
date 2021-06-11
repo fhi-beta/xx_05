@@ -11,7 +11,7 @@ If you have any questions, send an email to Beatriz.ValcarcelSalamanca@fhi.no
 You will need to install some FHI R packages. You can do this via:
 
 ```
-install.packages(c("fhidata","fhi","fhiplot"), repos = c("https://folkehelseinstituttet.github.io/drat", "https://cran.rstudio.com"))
+install.packages(c("fhidata", "fhiplot", "fhimaps"), repos = c("https://folkehelseinstituttet.github.io/drat", "https://cran.rstudio.com"))
 ```
 
 # TASK 1
@@ -36,10 +36,6 @@ The dataset `fhidata::norway_locations_names()` contains a data.table that links
 `municipality` = `kommune`
 
 `county` = `fylke`
-
-## Assumptions
-
-- Norwegian population data is available here: `fhidata::norway_population_b2020`
 
 ## Test: Setup 
 
@@ -85,7 +81,7 @@ You may use external structural data files for this creative assigment (e.g. sha
 
 The following links may be helpful for you:
 
-- https://folkehelseinstituttet.github.io/fhidata/articles/maps.html
+- https://folkehelseinstituttet.github.io/fhimaps/articles/fhimaps.html
 - https://folkehelseinstituttet.github.io/fhiplot/articles/
 
 Please save your graph(s) and/or table(s) into `results_task1/creative_assignment`.
